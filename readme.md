@@ -2,9 +2,11 @@ hey this is a extension where u can edit any part of the website
 
 How to use it
 
-downloading
+*downloading
+
 this is the github repo https://github.com/themanpluck2/web-page-editor download the manifest and background json file from here and put in a folder
-installation
+*installation
+
 it depends on the browser so i list some videos on the popular browsers
 
 Chrome: https://www.youtube.com/watch?v=QUCAMNFrb2k&pp=ygUqaG93IHRvIGRvd25sb2FkIGN1c3RvbSBleHRlbnNpb24gaW4gY2hyb21l
