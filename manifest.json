@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "website text editor",
+    "version": "1.0",
+    "description": "toggle edit mode on any website and edit the text",
+    "permissions":["activeTab","scripting"],
+    "action": {
+        "default_title":"Toggle Edit mode"
+
+    },
+    "background" : {
+        "service_worker" : "background.js"
+    }
+    }
