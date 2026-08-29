@@ -1,16 +1,19 @@
 hey this is a extension where u can edit any part of the website
-this only works in chromium browser 
-How to use it
-
-*downloading
-
-this is the github repo https://github.com/themanpluck2/web-page-editor download the manifest and background json file from here and put in a folder
-*installation
-
-
+it only works in chromium based browsers
 
 How to use it
 
+donwloading
+go to this github repo https://github.com/themanpluck2/web-page-editor
+download the .crx file if u want to check out how it works and all you can download the manifest and background file but for downloading download the .crx file
+
+then go to your browser and open the extension page it depends on your browser 
+brave: brave://extensions
+for chrome it is chrome://extensions
+just replace the browser name before ://extensions
+then drag on drop the .crx file into that page and click add extension and that is it you have downlaoded the 
+extension
+how to use it
 *click the extension like any other and the cursor will change to the typing thingy and yea you can type and remove anything u want
 
 How it works
