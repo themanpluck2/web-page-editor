@@ -1,5 +1,5 @@
 hey this is a extension where u can edit any part of the website
-
+this only works in chromium browser 
 How to use it
 
 *downloading
@@ -7,15 +7,7 @@ How to use it
 this is the github repo https://github.com/themanpluck2/web-page-editor download the manifest and background json file from here and put in a folder
 *installation
 
-it depends on the browser so i list some videos on the popular browsers
 
-Chrome: https://www.youtube.com/watch?v=QUCAMNFrb2k&pp=ygUqaG93IHRvIGRvd25sb2FkIGN1c3RvbSBleHRlbnNpb24gaW4gY2hyb21l
-
-Brave:i couldnt find a video
-so ill explain myself :D
-go to the adress bar and copy this brave://extensions/
-then  enable devloper mode in top right
-then load unpacked button and select the folder if you dont have a folder just put all these file in a  folder and enable the extension
 
 How to use it
 
