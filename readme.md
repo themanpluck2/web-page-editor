@@ -15,7 +15,7 @@ then drag on drop the .crx file into that page and click add extension and that 
 extension
 how to use it
 *click the extension like any other and the cursor will change to the typing thingy and yea you can type and remove anything u want
-
+all in one download
 How it works
 
 now you might be wondering isnt this illegal since you are changing someone else website well its not
