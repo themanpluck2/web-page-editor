@@ -5,8 +5,8 @@ How to use it
 
 donwloading
 go to this github repo https://github.com/themanpluck2/web-page-editor
-download the .crx file if u want to check out how it works and all you can download the manifest and background file but for downloading download the .crx file
-
+download the .crx file  
+installation
 then go to your browser and open the extension page it depends on your browser 
 brave: brave://extensions
 for chrome it is chrome://extensions
